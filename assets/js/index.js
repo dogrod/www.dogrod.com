@@ -1,5 +1,5 @@
 const sites = {
-  blog: 'http://blog.dogrod.com',
+  blog: 'https://blog.dogrod.com',
   fmf: 'http://fmf.buzz',
   github: 'https://github.com/dogrod',
 }
